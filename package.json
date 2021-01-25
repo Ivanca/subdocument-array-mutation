@@ -1,0 +1,17 @@
+{
+  "name": "subdocument-array-mutation",
+  "version": "1.0.0",
+  "description": "AspireIQ's Backend Take Home for Ivan Castellanos",
+  "main": "main.js",
+  "dependencies": {
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  },
+  "scripts": {
+    "test": "mocha test/**/*.js"
+  },
+  "author": "Ivan Castellanos",
+  "license": "ISC"
+}
